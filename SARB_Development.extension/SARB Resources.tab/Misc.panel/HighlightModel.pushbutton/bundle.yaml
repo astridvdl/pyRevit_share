@@ -1,0 +1,14 @@
+title:   
+  en_us: |-
+    Highlight
+    Model
+
+tooltip: 
+  en_us: >-
+    Stuff Happens
+
+highlight: new
+#highlight: updated
+
+authors: 
+- 'Astrid van der Laan (astrid.vanderlaan@zutari.com)'

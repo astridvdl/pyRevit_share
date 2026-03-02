@@ -1,0 +1,24 @@
+title:   
+  en_us: |-
+    Add 
+    Parameters
+
+tooltip:
+  en_us: >-
+    Compares project parameters against names in `parameters.json` (case-insensitive).
+    Reports counts, highlights duplicates (by name ignoring case) with an option
+    to remove extras (keep one), and adds any missing names as Text parameters in
+    the IFC group, bound as INSTANCE to ALL model categories. Reuses existing
+    shared-parameter definitions when available.
+
+authors:
+  - Astrid van der Laan
+
+context: doc-project
+
+
+
+required_files:
+  - parameters.json
+
+# highlight: updated
